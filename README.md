@@ -1,1 +1,1 @@
-# AIE312
+# AIE312-Amarin
